@@ -15,3 +15,5 @@ Optimize restaurant operations through data-driven insights.
 
 Usage:-
 Feel free to explore and utilize the datasets for analysis, visualization, or predictive modeling.
+
+For more detailed description & answers you can refer Restaurant Order Analysis.docx file.
