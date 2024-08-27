@@ -15,11 +15,15 @@ Menu Items: Details of the restaurant's menu items and their categories.
 Order Payments: Data on payment methods and amounts for each order.
 
 Project Goals:-
+
 Identify popular menu items and peak sales times.
+
 Analyze customer loyalty and purchasing patterns.
+
 Optimize restaurant operations through data-driven insights.
 
 Usage:-
+
 Feel free to explore and utilize the datasets for analysis, visualization, or predictive modeling.
 
 For more detailed description & answers you can refer Restaurant Order Analysis.docx file.
